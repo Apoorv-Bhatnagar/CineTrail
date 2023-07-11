@@ -1,2 +1,2 @@
 # CineTrail
-Reactjs+TypeScript
+React+TypeScript
